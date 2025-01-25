@@ -1,5 +1,5 @@
 # Grocery-Store-Mangement-System
-A simple Grocery Store Management System written in C++ | Semester Project | OOP 
+A simple Grocery Store Management System written in C++ | Semester Project | OOP (Object Oriented Programming)
 
 ## **Overview**
 This project implements an **Object-Oriented Programming (OOP)** approach to create a comprehensive management system for a grocery store chain. It automates processes and improves the shopping experience for customers both in-person and online. The system supports multiple user roles (Admin, Manager, Customer) and includes modules for registration, login, inventory management, online shopping, payment, and checkout simulation. Binary file handling was used to save data.
